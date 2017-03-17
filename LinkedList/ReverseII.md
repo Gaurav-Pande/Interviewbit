@@ -1,6 +1,6 @@
-#Reverse Part II
+# Reverse Part II
 
-##Problem:
+## Problem:
 
 Reverse a linked list from position m to n. Do it in-place and in one-pass.
 
@@ -16,7 +16,7 @@ Usually the version often seen in the interviews is reversing the whole linked l
 of this question. 
 
 
-##Solution
+## Solution
 
 ```
 java
