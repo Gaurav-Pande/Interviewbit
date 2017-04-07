@@ -1,7 +1,6 @@
 # Reverse a string using stack
 
-```
-java
+```java
 
 public class Solution {
 	public String reverseString(String a) {
