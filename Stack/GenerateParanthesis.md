@@ -1,4 +1,4 @@
-# Generate all ParenthesesBookmark Suggest Edit
+# Generate all Parentheses
 
 Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
