@@ -9,8 +9,7 @@ Return 0 / 1 ( 0 for false, 1 for true ) for this problem
 
 ## Solutions
 
-```
-java
+```java
 
 public class Solution {
 	public int isValid(String a) {
